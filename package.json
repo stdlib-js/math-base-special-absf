@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@stdlib/constants-float32-abs-mask": "^0.0.1",
-    "@stdlib/math-base-napi-unary": "^0.0.8",
+    "@stdlib/math-base-napi-unary": "^0.0.9",
     "@stdlib/number-float32-base-to-word": "^0.0.6",
     "@stdlib/utils-library-manifest": "^0.0.8"
   },

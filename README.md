@@ -63,7 +63,7 @@ The [absolute value][absolute-value] is defined as
 ## Usage
 
 ```javascript
-import absf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absf@esm/index.mjs';
+import absf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absf@v0.1.0-esm/index.mjs';
 ```
 
 #### absf( x )
@@ -105,7 +105,7 @@ v = absf( NaN );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import absf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absf@esm/index.mjs';
+import absf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-absf@v0.1.0-esm/index.mjs';
 
 var rand;
 var i;

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-21)
+## Unreleased (2025-04-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`850472b`](https://github.com/stdlib-js/stdlib/commit/850472b35f4cf47cab44047acd94a9120d6d5b77) - **docs:** replace manual `for` loop in examples [(#6182)](https://github.com/stdlib-js/stdlib/pull/6182) _(by Karan Anand)_
 -   [`b1448e4`](https://github.com/stdlib-js/stdlib/commit/b1448e42d0b2f897103635a49be15bfa778784ad) - **bench:** refactor benchmarks and update test messages in `math/base/special/absf` [(#5259)](https://github.com/stdlib-js/stdlib/pull/5259) _(by Karan Anand)_
 -   [`d1d770a`](https://github.com/stdlib-js/stdlib/commit/d1d770a78549d322db7b06bff07f21d057ac60de) - **build:** add WebAssembly configuration for `math/base/special/absf` [(#3023)](https://github.com/stdlib-js/stdlib/pull/3023) _(by Aman Bhansali)_
